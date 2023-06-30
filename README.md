@@ -7,3 +7,9 @@
 - **Trainer** : 모델의 학습 epoch이나 batch, 로그 생성까지 "모델의 학습을 담당"
 
 ### <Fashion MNIST 학습 예제 실습>
+
+##### Train
+    python main.py --mode train
+
+##### Test
+    python main.py --mode test
